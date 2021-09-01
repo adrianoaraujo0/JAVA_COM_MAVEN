@@ -1,0 +1,5 @@
+INDEX VERSION 1.4+C:\Users\adriano.medeiros\ProjetoWeb\eclipse-workspaceWebCurso\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+279464321.index
+476442431.index
+54703828.index
+2092852241.index

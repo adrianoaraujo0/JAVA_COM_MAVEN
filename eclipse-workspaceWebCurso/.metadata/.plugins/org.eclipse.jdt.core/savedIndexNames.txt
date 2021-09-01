@@ -1,0 +1,6 @@
+INDEX VERSION 1.131+C:\Users\adriano.medeiros\ProjetoWeb\eclipse-workspaceWebCurso\.metadata\.plugins\org.eclipse.jdt.core
+54703828.index
+476442431.index
+1918552229.index
+4031786931.index
+279464321.index
